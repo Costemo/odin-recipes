@@ -1,0 +1,15 @@
+p {
+    background-color: lightgrey;
+}
+* {
+    background: linear-gradient(black,rgb(50, 47, 47));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:white
+}
+a {
+    color: lightskyblue;
+}
+a:visited {
+    color:blueviolet
+}
